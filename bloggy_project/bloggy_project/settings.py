@@ -38,8 +38,9 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    # tools
+    # 3rd party apps
     'debug_toolbar',
+    'django_forms_bootstrap',
 
     # local apps
     'blog',
